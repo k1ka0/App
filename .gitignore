@@ -1,0 +1,12 @@
+/target/
+/.project
+/.classpath
+/test-output
+/.settings
+/allure-results/
+local_suite.xml
+/bin/
+SuiteLocal.xml
+/.apt_generated/
+/.apt_generated_tests/
+.factorypath
